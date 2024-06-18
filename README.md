@@ -1,4 +1,4 @@
-### Hello World 👋
+### Hello 👋
 
 - 💻 I build and I break stuff.
 - 🔭 I like cycling, sketching and writing ocassionally.
